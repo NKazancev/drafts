@@ -27,5 +27,3 @@ function getTimeDifference(date) {
     
     return `${resultHours} and ${resultMinutes} time difference from now.`;
 }
-
-console.log(getTimeDifference());
